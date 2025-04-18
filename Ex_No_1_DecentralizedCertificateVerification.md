@@ -30,6 +30,8 @@ return certificates[certHash];
 }
 ```
 # Expected Output:
+![Screenshot (149)](https://github.com/user-attachments/assets/66cc3325-59b5-448d-9871-aaae8e5eef04)
+
 ![Screenshot 2025-04-18 201746](https://github.com/user-attachments/assets/bd4ca18b-e279-4903-93f8-546e3d58086a)
 
 # Result:
